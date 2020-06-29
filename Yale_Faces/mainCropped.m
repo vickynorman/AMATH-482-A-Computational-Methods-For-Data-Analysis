@@ -1,6 +1,6 @@
 clear all; close all;
 %load images
-images = [dir('/Users/vick/Documents/AMATH482/hw1/CroppedYale/YaleB06')];
+images = [dir('./yalefaces')];
 
 %read images and store data in a matrix with one column per image
 numfiles = length(images);
