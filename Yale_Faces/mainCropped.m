@@ -1,6 +1,6 @@
 clear all; close all;
 %load images
-images = [dir('./yalefaces')];
+images = [dir(pwd+'/yalefaces')];
 
 %read images and store data in a matrix with one column per image
 numfiles = length(images);
