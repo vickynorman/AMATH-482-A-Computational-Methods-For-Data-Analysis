@@ -1,4 +1,8 @@
-			The Yale Face Database
+This folder holds matlab code for the project detailed in the file 'Eigen faces.pdf'.
+The projects aim was to explore single value decomposition of the images contained in the zip folders within this folder.
+A description of the images is below.
+
+The Yale Face Database
 			----------------------
 
 The database contains 165 GIF images of 15 subjects (subject01, 
